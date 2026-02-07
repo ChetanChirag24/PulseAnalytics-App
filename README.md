@@ -3,6 +3,7 @@
 ## Project info
 
 **URL**: https://pulseanalytics-revenue-growth.netlify.app/
+**Dashboard overview(Video)**: https://www.loom.com/share/5808b2bd5ec34543988fea3599b219e0
 
 ## How can I edit this code?
 
