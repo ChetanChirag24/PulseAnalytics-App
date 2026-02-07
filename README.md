@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://pulseanalytics.netlify.app/
+**URL**: https://pulseanalytics-revenue-growth.netlify.app/
 
 ## How can I edit this code?
 
